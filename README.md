@@ -98,8 +98,6 @@ pip install -r requirements.txt
 python run.py
 ```
 
-Open your browser and navigate to `http://localhost:5000`
-
 ### Dependencies
 
 ```txt
@@ -186,20 +184,16 @@ WTForms==3.0.1
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Dashboard](https://via.placeholder.com/600x400/2ecc71/ffffff?text=Dashboard+Overview)
-*Central hub showing daily stats, recent workouts, and goal progress*
+ <img width="1611" height="878" alt="image" src="https://github.com/user-attachments/assets/4ac76d80-60fe-44c7-8961-bf0851af080c" />
 
-### Workout Tracking
-![Workouts](https://via.placeholder.com/600x400/3498db/ffffff?text=Workout+Tracking)
-*Comprehensive workout logging with exercise selection and metrics*
 
-### Progress Analytics
-![Analytics](https://via.placeholder.com/600x400/9b59b6/ffffff?text=Progress+Charts)
-*Interactive charts showing workout trends and goal progress*
+### Calorie Tracker
+ <img width="1230" height="744" alt="image" src="https://github.com/user-attachments/assets/55e0159d-c772-4737-9528-102713123fe9" />
 
-### Nutrition Tracking
-![Nutrition](https://via.placeholder.com/600x400/e67e22/ffffff?text=Meal+Logging)
-*Detailed meal logging with calorie and macronutrient breakdown*
+
+### Fitness Community
+<img width="926" height="754" alt="image" src="https://github.com/user-attachments/assets/937a4c24-b926-4dcf-8cec-5432f4dfa820" />
+
 
 ## 🛠️ Tech Stack
 
@@ -248,10 +242,6 @@ FitByte1/
 - [ ] 🔗 Fitness device integration (Fitbit, Apple Watch)
 - [ ] 🤖 AI-powered workout recommendations
 - [ ] 🏆 Social challenges and leaderboards
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
