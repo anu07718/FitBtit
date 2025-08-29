@@ -225,5 +225,5 @@ FitByte1/
 - [SQLAlchemy](https://sqlalchemy.org/) for powerful ORM capabilities
 - [Chart.js](https://chartjs.org/) for beautiful data visualizations
 - [Font Awesome](https://fontawesome.com/) for comprehensive icons
-- All contributors who help improve FitByte
+
 
