@@ -2,14 +2,6 @@
 
 A comprehensive **fitness tracking web application** built with Flask, SQLAlchemy, and modern web technologies. Track your workouts, meals, goals, and progress with an intuitive interface designed for fitness enthusiasts.
 
-![FitByte Banner](https://via.placeholder.com/800x400/3498db/ffffff?text=FitByte+Fitness+Tracker)
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-orange.svg)](https://sqlalchemy.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
@@ -97,17 +89,6 @@ pip install -r requirements.txt
 # Initialize database and start server
 python run.py
 ```
-
-### Dependencies
-
-```txt
-Flask==2.3.2
-Flask-SQLAlchemy==3.0.5
-Flask-Login==0.6.2
-Werkzeug==2.3.6
-WTForms==3.0.1
-```
-
 ## 🎯 Usage
 
 ### Getting Started
@@ -231,13 +212,8 @@ FitByte1/
 └── instance/            # Database files
     └── fitbyte.db
 ```
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Add tests for new features
-- Update documentation as needed
-- Use meaningful commit messages
 
-### Version 2.0
+### Future Enhancements
 - [ ] 📱 Mobile app development
 - [ ] 🔗 Fitness device integration (Fitbit, Apple Watch)
 - [ ] 🤖 AI-powered workout recommendations
